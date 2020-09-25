@@ -40,7 +40,7 @@ Travis Gray
             
 ## Contributing
             
-If you'd like to be given permission to collaborate and make changes to my application, please reach out to me at TravisGray420@gmail.com
+If you'd like to be given permission to contribute and make changes to my application, please reach out to me at TravisGray420@gmail.com
             
 ## Tests
             
