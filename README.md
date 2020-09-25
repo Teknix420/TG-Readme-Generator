@@ -25,9 +25,9 @@ This application doesn't need to be installed, only ran from a command line.
             
 ## Usage
             
-- Make sure that Node.js is installed on your computer before proceeding
-- Save the repo to your computer
-- Open a command line in either VS Code, GitBash, or another alternative
+- Make sure that Node.js is installed on your computer before proceeding.
+- Save the repo to your computer.
+- Open a command line in either VS Code, GitBash, or another alternative.
 - Navigate to the main folder for the repo and type in:
 	node index.js
 - Navigate through the questions, filling out all of the info as needed. It will open a text editor such as notepad. Save the info and then close the editor once that section has been finished and the application will automatically continue.
